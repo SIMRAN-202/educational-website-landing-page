@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: "Heebo", sans-serif;
+}
+.font-large{
+    font-size: 3.5rem;
+}
+.font-medium{
+    font-size: 3rem;
+}
+
+.font-small{
+    font-size:14px ;
+}
+.pink-btn{
+    background-color:#fbe9eb ;
+    color:rgb(214,41,62) ;
+}
+.pink-btn:hover{
+    background-color:rgb(214,41,62) ;
+    color: aliceblue;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block; 
+   }
+
+.spacing{
+    margin-top:100px;
+}
+.blue-bg{
+    background-color: #17A2B8;
+}
+.back-blur{
+    backdrop-filter: blur(5px);
+}
+
+
+
+
+
+
+
+
+
+
+
